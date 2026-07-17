@@ -248,11 +248,7 @@
                 <h1>BIOLOGIA ENEM</h1>
                 <p style="font-size: 36px; color: var(--accent-green); margin-top: 10px;">BASES DA ECOLOGIA: MODELOS ESSENCIAIS</p>
             </div>
-            <div class="header-meta">
-                <p>DESTRINCHANDO O ENEM — BIOLOGIA</p>
-                <p style="color: #fff; font-weight: bold;">V.2.0 // CIÊNCIAS DA NATUREZA</p>
-                <p style="font-size: 16px; color: var(--accent-green);">LA TEX + CHART.JS + P5.JS</p>
-            </div>
+            
         </header>
 
         <div class="section-title full-width" style="border-color: var(--accent-green);">
@@ -426,10 +422,7 @@
             </div>
         </div>
 
-        <footer class="footer">
-            <div>© 2026 Destrinchando o Enem | Bases da Ecologia</div>
-            <div>Conteúdo Estratégico para o ENEM | LaTeX + Gráficos Interativos</div>
-        </footer>
+        
 
     </div>
 
